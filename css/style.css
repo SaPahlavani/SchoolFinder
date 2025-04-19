@@ -1,6 +1,6 @@
 @font-face {
     font-family: yekan;
-    src: url(../fonts/Yekan.woff2);
+    src: url(fonts/Yekan.woff2);
 }
 body, html{
     margin: 0;
@@ -140,7 +140,7 @@ header{
   display: none;
 }
 #background-img{
-  background: url(../image/13_mashhad_360.jpg);
+  background: url(image/13_mashhad_360.jpg);
   height: 100vh;
   width: 100%;
   position: relative;
