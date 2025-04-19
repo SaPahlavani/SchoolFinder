@@ -135,7 +135,6 @@
     <!-- Header: Desktop -->
     <div class="container-header-desktop">
       <div class="logo-desktop">
-        <img src="image/boy.png" alt="لوگوهنرستان‌یاب">
         <p>هنرستان‌یاب</p>
       </div>
       <nav class="nav navbar navber-desktop">
@@ -171,24 +170,33 @@
   <script src="js/script.js"></script>
 
   <script>
-    const hamburgerBtn = document.getElementById("hamburgerBtn");
-    const mobileMenu = document.getElementById("mobileMenu");
-    const closeMenu = document.getElementById("closeMenu");
+  const hamburgerBtn = document.getElementById("hamburgerBtn");
+  const mobileMenu = document.getElementById("mobileMenu");
+  const closeMenu = document.getElementById("closeMenu");
 
-    hamburgerBtn.addEventListener("click", () => {
-      mobileMenu.classList.add("open");
-    });
+  hamburgerBtn.addEventListener("click", (e) => {
+    e.stopPropagation(); // جلوگیری از بسته شدن فوری
+    mobileMenu.classList.add("open");
+  });
 
-    closeMenu.addEventListener("click", () => {
+  closeMenu.addEventListener("click", (e) => {
+    e.stopPropagation();
+    mobileMenu.classList.remove("open");
+  });
+
+  // بسته شدن وقتی بیرون از منو کلیک شد
+  document.addEventListener("click", function (e) {
+    if (!mobileMenu.contains(e.target) && !hamburgerBtn.contains(e.target)) {
       mobileMenu.classList.remove("open");
-    });
+    }
+  });
 
-    document.addEventListener("click", function (e) {
-      if (!mobileMenu.contains(e.target) && !hamburgerBtn.contains(e.target)) {
-        mobileMenu.classList.remove("open");
-      }
-    });
-  </script>
+  // جلوگیری از بسته شدن وقتی داخل منو کلیک شد
+  mobileMenu.addEventListener("click", (e) => {
+    e.stopPropagation();
+  });
+</script>
+
 
 </body>
 </html>
