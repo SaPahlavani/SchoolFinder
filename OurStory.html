@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>داستان ما - هنرستان‌یاب</title>
+
+    <!-- فونت فارسی Vazirmatn از CDN -->
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- آیکون‌ها و استایل -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        body {
+            font-family: 'Vazirmatn', sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .about-container {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .about-content h1,
+        .about-content h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .about-content p {
+            line-height: 2.2;
+            margin: 20px 0;
+            color: #444;
+            text-align: justify;
+        }
+
+        .team-list {
+            list-style: none;
+            padding: 0;
+            text-align: right;
+        }
+
+        .team-list li {
+            padding: 10px 0;
+            font-size: 18px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #666;
+        }
+
+        nav a.active {
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        /* استایل منو موبایل */
+        .mobile-menu {
+            display: none;
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 80%;
+            max-width: 300px;
+            height: 100%;
+            background-color: #fff;
+            box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+            z-index: 1001;
+            padding: 20px;
+        }
+
+        .mobile-menu.open {
+            display: block;
+        }
+
+        .mobile-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .mobile-logo {
+            width: 40px;
+            height: 40px;
+        }
+
+        .mobile-nav a {
+            display: block;
+            padding: 10px 0;
+            color: #333;
+            text-decoration: none;
+            font-weight: 500;
+            border-bottom: 1px solid #eee;
+        }
+
+        .hamburger-icon {
+            display: none;
+            position: fixed;
+            top: 15px;
+            right: 20px;
+            font-size: 24px;
+            cursor: pointer;
+            z-index: 1100;
+            color: #333;
+        }
+
+        @media (max-width: 768px) {
+            .container-header-desktop {
+                display: none;
+            }
+
+            .hamburger-icon {
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- آیکون همبرگر موبایل -->
+    <div class="hamburger-icon">
+        <i class="fa fa-bars"></i>
+    </div>
+
+    <!-- منوی موبایل -->
+    <div class="mobile-menu">
+        <div class="mobile-header">
+            <span class="close-btn">&times;</span>
+            <img src="image/boy.png" alt="لوگو" class="mobile-logo">
+            <p>هنرستان‌یاب</p>
+        </div>
+        <nav class="mobile-nav">
+            <a href="index.html">خانه</a>
+            <a href="map.html">نقشه</a>
+            <a href="about.html" class="active">داستان ما</a>
+        </nav>
+    </div>
+
+    <!-- هدر دسکتاپ -->
+    <header>
+        <div class="container-header-desktop">
+            <div class="logo-desktop">
+                <img src="image/boy.png" alt="لوگوهنرستان‌یاب">
+                <p>هنرستان‌یاب</p>
+            </div>
+            <nav class="nav navbar navber-desktop">
+                <a href="index.html">خانه</a>
+                <a href="map.html">نقشه</a>
+                <a href="about.html" class="active">داستان ما</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- محتوای اصلی -->
+    <main class="about-container">
+        <section class="about-content">
+            <br><br>
+            <p>
+                پروژه <strong>هنرستان‌یاب خراسان رضوی</strong> با هدف دسترسی آسان به اطلاعات هنرستان‌های فنی‌وحرفه‌ای و کاردانش استان طراحی شده است. در این سامانه کاربران می‌توانند هنرستان‌ها را بر اساس نوع، جنسیت، موقعیت جغرافیایی و رشته جستجو و بررسی کنند.
+            </p>
+            <h2>تیم توسعه‌دهنده</h2>
+            <p>
+                این پروژه توسط هنرآموزان <strong>رشته کامپیوتر</strong> در هنرستان <strong>سمپاد مهارتی سعدی</strong> مشهد و با راهنمایی اداره فنی و حرفه ای  استان خراسان رضوی توسعه داده شده است.
+            </p>
+
+            <ul class="team-list">
+                <li><i class="fa fa-user"></i> سمانه پهلوانی</li>
+                <li><i class="fa fa-user"></i> فاطمه شامحمدی</li>
+                <li><i class="fa fa-user"></i> جمیله کاشانی‌فر</li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- فوتر -->
+    <footer class="footer">
+        <p>تمامی حقوق متعلق به هنرستان‌یاب خراسان رضوی است. &copy; 2025</p>
+    </footer>
+
+    <!-- اسکریپت باز و بسته شدن منو موبایل -->
+    <script>
+        const hamburger = document.querySelector(".hamburger-icon");
+        const mobileMenu = document.querySelector(".mobile-menu");
+        const closeBtn = document.querySelector(".close-btn");
+
+        hamburger.addEventListener("click", () => {
+            mobileMenu.classList.add("open");
+        });
+
+        closeBtn.addEventListener("click", () => {
+            mobileMenu.classList.remove("open");
+        });
+
+        document.addEventListener("click", function (e) {
+            if (!mobileMenu.contains(e.target) && !hamburger.contains(e.target)) {
+                mobileMenu.classList.remove("open");
+            }
+        });
+    </script>
+
+</body>
+</html>
