@@ -1,201 +1,61 @@
 <!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<html lang="fa">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>هنرستان‌یاب خراسان رضوی</title>
-
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
-  <link rel="stylesheet" href="css/style.css">
-
-  <style>
-    /* استایل اختصاصی منو موبایل */
-    .container-header-mobile {
-      display: none;
-    }
-
-    .header-mobile {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background-color: #fff;
-      padding: 10px 20px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-    }
-
-    .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .logo img {
-      width: 40px;
-      height: 40px;
-    }
-
-    .hamberger {
-      font-size: 22px;
-      cursor: pointer;
-    }
-
-    .container-navbar-mobile {
-      position: fixed;
-      top: 0;
-      right: -100%;
-      width: 75%;
-      height: 100vh;
-      background: #fff;
-      box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
-      z-index: 999;
-      transition: right 0.3s ease;
-      padding: 20px;
-    }
-
-    .container-navbar-mobile.open {
-      right: 0;
-    }
-
-    .navbar.navber-mobile {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-    }
-
-    .navbar-mobile-link {
-      color: #333;
-      text-decoration: none;
-      font-weight: bold;
-      font-size: 18px;
-    }
-
-    .close {
-      font-size: 20px;
-      cursor: pointer;
-      align-self: flex-start;
-      margin-bottom: 20px;
-    }
-
-    /* نسخه دسکتاپ */
-    .container-header-desktop {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 15px 20px;
-      background-color: #fff;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-    }
-
-    .logo-desktop {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .logo-desktop img {
-      width: 45px;
-    }
-
-    @media (max-width: 768px) {
-      .container-header-desktop {
-        display: none;
-      }
-
-      .container-header-mobile {
-        display: block;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>هنرستان‌یاب خراسان رضوی</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-
-  <!-- Header: Mobile -->
-  <header>
-    <div class="container-header-mobile">
-      <div class="header-mobile">
-        <div class="hamberger" id="hamburgerBtn">
-          <i class="fa fa-bars"></i>
+<body dir="rtl">
+    <!--menu-->
+    <header>
+        <div class="container-header-mobile">
+            <div class="header-mobile">
+                <div class="hamberger">
+                    <label for="checkbox-hamberger" class="label-hamberger">
+                        <i class="fa-solid fa-bars"></i>
+                    </label>
+                    <input type="checkbox" id="checkbox-hamberger">
+                </div>
+                <div class="logo">
+                    <img src="image\boy.png" alt="لوگوهنرستان‌یاب">
+                    <p>هنرستان‌یاب</p>
+                </div>
+            </div>
+            <div class="container-navbar-mobile d-none">
+                <nav class="navbar navber-mobile">
+                    <span class="close">X</span>
+                    <a class="navbar-mobile-link" href="map.html">نقشه هنرستان‌ها</a>
+                    <a class="navbar-mobile-link" href="OurStory.html">داستان ما </a>
+                </nav>
+            </div>
         </div>
-        <div class="logo">
-          <p>هنرستان‌یاب</p>
+        <div class="container-header-desktop">
+
+            <div class="logo-desktop">
+                <img src="image\boy.png" alt="لوگوهنرستان‌یاب">
+                <p>هنرستان‌یاب</p>
+            </div>
+            <nav class="nav navbar navber-desktop">
+                <a href="index.html">خانه</a>
+                <a href="map.html">نقشه هنرستان‌ها</a>
+                <a href="OurStory.html">داستان ما</a>
+                <div class="animation start-home"></div>
+            </nav>
         </div>
-      </div>
+    </header>
 
-      <div class="container-navbar-mobile" id="mobileMenu">
-        <span class="close" id="closeMenu">×</span>
-        <nav class="navbar navber-mobile">
-          <a class="navbar-mobile-link" href="index.html">خانه</a>
-          <a class="navbar-mobile-link" href="OurStory.html">داستان ما</a>
-        </nav>
-      </div>
-    </div>
+    <!--background-->
+    <section id="background-img">
+        <div class="options">
+            <h1>بهترین هنرستان‌های استان خراسان رضوی را پیدا کنید!</h1>
+        </div>
+    </section>
 
-    <!-- Header: Desktop -->
-    <div class="container-header-desktop">
-      <div class="logo-desktop">
-        <p>هنرستان‌یاب</p>
-      </div>
-      <nav class="nav navbar navber-desktop">
-        <a href="index.html">خانه</a>
-        <a href="OurStory.html">داستان ما</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- Map & Filters -->
-  <section>
-    <div class="container-map">
-      <div id="map" class="map"></div>
-      <div id="filters" class="hidden">
-        <select id="zoneSelect" class="filter-dropdown"></select>
-        <select id="courseSelect" class="filter-dropdown">
-          <option selected disabled>انتخاب رشته</option>
-        </select>
-        <button class="filter-btn" data-filter="G1">دخترانه</button>
-        <button class="filter-btn" data-filter="G0">پسرانه</button>
-        <button class="filter-btn" data-filter="T1">فنی و حرفه‌ای</button>
-        <button class="filter-btn" data-filter="T0">کاردانش</button>
-        <button class="filter-btn" data-filter="P1">دولتی</button>
-        <button class="filter-btn" data-filter="P0">غیردولتی</button>
-        <input type="text" name="search" id="search" class="search filter-btn" placeholder="جستجو کنید...">
-      </div>
-    </div>
-  </section>
-
-  <!-- Scripts -->
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="js/map.js"></script>
-  <script src="js/script.js"></script>
-
- <script>
-  const hamburgerBtn = document.getElementById("hamburgerBtn");
-  const mobileMenu = document.getElementById("mobileMenu");
-  const closeMenu = document.getElementById("closeMenu");
-
-  hamburgerBtn.addEventListener("click", (e) => {
-    e.stopPropagation(); // جلوگیری از بسته شدن فوری
-    mobileMenu.classList.add("open");
-  });
-
-  closeMenu.addEventListener("click", (e) => {
-    e.stopPropagation();
-    mobileMenu.classList.remove("open");
-  });
-
-  // بسته شدن وقتی بیرون از منو کلیک شد
-  document.addEventListener("click", function (e) {
-    if (!mobileMenu.contains(e.target) && !hamburgerBtn.contains(e.target)) {
-      mobileMenu.classList.remove("open");
-    }
-  });
-
-  // جلوگیری از بسته شدن وقتی داخل منو کلیک شد
-  mobileMenu.addEventListener("click", (e) => {
-    e.stopPropagation();
-  });
-</script>
-
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="js/script.js"></script>
 
 </body>
 </html>
