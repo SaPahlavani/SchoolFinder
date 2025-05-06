@@ -4,6 +4,7 @@
   {
     "school_code": "96019665",
     "district": "6",
+    "districtN":"ناحیه6",
     "school_name": "هنرستان امام حسن مجتبی ع",
     "longitude": "59.48059079486997",
     "latitude": "36.33940991915884",
@@ -19,6 +20,7 @@
   {
     "school_code": "50681306",
     "district": "6",
+    "districtN":"ناحیه6",
     "school_name": "نیک اندیشان ( دکتر فرخ )",
     "longitude": "59.473499163464986",
     "latitude": "36.3412926159747",
@@ -34,6 +36,7 @@
   {
     "school_code": "80049553",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "فاطمه امیری",
     "longitude": "59.543452521195356",
     "latitude": "36.2920359174533",
@@ -49,6 +52,7 @@
   {
     "school_code": "50682509",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "شاهد کارواندیشه",
     "longitude": "59.49070528149604",
     "latitude": "36.312244149531885",
@@ -64,6 +68,7 @@
   {
     "school_code": "50656401",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "آیت اله طالقانی",
     "longitude": "59.50870962223505",
     "latitude": "36.324219354598576",
@@ -79,6 +84,7 @@
   {
     "school_code": "80048942",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "سید محمد شهرستانی",
     "longitude": "59.543448910117164",
     "latitude": "36.29207742587759",
@@ -94,6 +100,7 @@
   {
     "school_code": "50626201",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "هنرستان پسرانه فنی حرفه ای شهید یوسفی یک",
     "longitude": "59.50618371809522",
     "latitude": "36.322786551831065",
@@ -109,6 +116,7 @@
   {
     "school_code": "50670403",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "هنرستان پسرانه کاردانش شهید یوسفی یک",
     "longitude": "59.50618371809522",
     "latitude": "36.322786551831065",
@@ -124,6 +132,7 @@
   {
     "school_code": "50674707",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "شهیدان آرمین",
     "longitude": "59.499930739402785",
     "latitude": "36.335881178530364",
@@ -139,6 +148,7 @@
   {
     "school_code": "50682509",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "شاهد کارواندیشه",
     "longitude": "59.49070528149604",
     "latitude": "36.312244149531885",
@@ -154,6 +164,7 @@
   {
     "school_code": "50695405",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "شاهد ایثار",
     "longitude": "59.489026176801076",
     "latitude": "36.32748517544175",
@@ -169,6 +180,7 @@
   {
     "school_code": "95122381",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "ریحانه",
     "longitude": "59.52779691301518",
     "latitude": "36.29899774898102",
@@ -184,6 +196,7 @@
   {
     "school_code": "95035171",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "نمونه دولتی دارالفنون",
     "longitude": "59.5079049",
     "latitude": "36.323707",
@@ -199,6 +212,7 @@
   {
     "school_code": "50682403",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "هنرستان غیردولتی هما",
     "longitude": "59.5240082",
     "latitude": "36.3170988",
@@ -214,6 +228,7 @@
   {
     "school_code": "96103766",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "استعداد های درخشان امیر کبیر",
     "longitude": "59.50193333333333",
     "latitude": "36.339875",
@@ -229,6 +244,7 @@
   {
     "school_code": "50625908",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "شهید کاظمیان",
     "longitude": "59.50751593787339",
     "latitude": "36.32327955531426",
@@ -244,6 +260,7 @@
   {
     "school_code": "95006362",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "مهندس ناصر باقرزاده",
     "longitude": "59.48978395792597",
     "latitude": "36.32714678442908",
@@ -259,6 +276,7 @@
   {
     "school_code": "80060584",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "مهر عظام",
     "longitude": "59.5477919331055",
     "latitude": "36.27913356463634",
@@ -274,6 +292,7 @@
   {
     "school_code": "96085119",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "هنرستان پویا",
     "longitude": "59.52288551635498",
     "latitude": "36.29590351275089",
@@ -289,6 +308,7 @@
   {
     "school_code": "95033340",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "سپهر معرفت",
     "longitude": "59.47496395",
     "latitude": "36.3366936",
@@ -304,6 +324,7 @@
   {
     "school_code": "95007487",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "بلند پرواز",
     "longitude": "59.5172",
     "latitude": "36.3149",
@@ -319,6 +340,7 @@
   {
     "school_code": "96085635",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "غیر دولتی شرف",
     "longitude": "59.49277594685554",
     "latitude": "36.33182116766873",
@@ -334,6 +356,7 @@
   {
     "school_code": "50689300",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "آزادگان",
     "longitude": "59.505369943373125",
     "latitude": "36.30002855367099",
@@ -349,6 +372,7 @@
   {
     "school_code": "80060094",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "آزادگان",
     "longitude": "59.505369943373125",
     "latitude": "36.30002855367099",
@@ -364,6 +388,7 @@
   {
     "school_code": "55840407",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "هنرستان دخترانه فنی و حرفه ای آزادگان",
     "longitude": "59.49165708",
     "latitude": "36.31343908",
@@ -379,6 +404,7 @@
   {
     "school_code": "50682604",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "هنرستان محمودیه 8",
     "longitude": "59.488745717990994",
     "latitude": "36.31377888919754",
@@ -394,6 +420,7 @@
   {
     "school_code": "96118049",
     "district": "6",
+     "districtN":"ناحیه6",
     "school_name": "غلامرضا باقر زاده",
     "longitude": "59.46559846401217",
     "latitude": "36.32318564859478",
