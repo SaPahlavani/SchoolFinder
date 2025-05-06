@@ -4,6 +4,7 @@
     {
         "school_code":"96043927",
         "district":"1",
+        "districtN":"ناحیه1",
         "school_name":"فاطمه الزهرا",	
         "longitude":"59.6679033258069",
         "latitude":"36.3033983656651",
@@ -18,7 +19,8 @@
     } ,
     {
         "school_code": "50172605",
-        "district": "1",
+        "district": "1",   
+        "districtN":"ناحیه1",
         "school_name": "حوا",
         "longitude": "59.6285302",
         "latitude": "36.3145592",
@@ -34,6 +36,7 @@
       {
         "school_code": "96085457",
         "district": "1",
+        "districtN":"ناحیه1",
         "school_name": "بدیع",
         "longitude": "59.65885039",
         "latitude": "36.31584539",
@@ -49,6 +52,7 @@
       {
         "school_code": "96083322",
         "district": "1",
+        "districtN":"ناحیه1",
         "school_name": "الزهرا",
         "longitude": "59.67250129",
         "latitude": "36.31385482",
@@ -64,6 +68,7 @@
       {
         "school_code": "50142500",
         "district": "1",
+        "districtN":"ناحیه1",
         "school_name": "سینا",
         "longitude": "59.6162",
         "latitude": "36.2995",
@@ -79,6 +84,7 @@
     {
       "school_code": "50118301",
       "district": "1",
+      "districtN":"ناحیه1",
       "school_name": "مهدیزاده",
       "longitude": "59.61785387",
       "latitude": "36.29827691",
@@ -94,6 +100,7 @@
   {
     "school_code": "96027517",
     "district": "1",
+    "districtN":"ناحیه1",
     "school_name": "دور اندیش",
     "longitude": "59.62006018",
     "latitude": "36.31429468",
@@ -109,6 +116,7 @@
 {
   "school_code": "96085456",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "خامنه ای",
   "longitude": "59.6339929",
   "latitude": "36.3251405",
@@ -124,6 +132,7 @@
 {
   "school_code": "80059530",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "رحیم زاده",
   "longitude": "59.66360123",
   "latitude": "36.29081031",
@@ -139,6 +148,7 @@
 {
   "school_code": "80059529",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "شهدای پارسا",
   "longitude": "59.65091621",
   "latitude": "36.33112362",
@@ -154,6 +164,7 @@
 {
   "school_code": "80060591",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "امام جواد",
   "longitude": "59.66620946",
   "latitude": "36.3183475",
@@ -169,6 +180,7 @@
 {
   "school_code": "50124903",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "آل طه 1",
   "longitude": "59.65918958",
   "latitude": "36.31546879",
@@ -184,6 +196,7 @@
 {
   "school_code": "80016368",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "آل طه 2",
   "longitude": "59.65918958",
   "latitude": "36.31546879",
@@ -199,6 +212,7 @@
 {
   "school_code": "50163505",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "محمودیه خیامی",
   "longitude": "59.66476991",
   "latitude": "36.30705829",
@@ -214,6 +228,7 @@
 {
   "school_code": "50160108",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "حافظ",
   "longitude": "59.63166006",
   "latitude": "36.32604733",
@@ -229,6 +244,7 @@
 {
   "school_code": "50147203",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "عارفه",
   "longitude": "59.63839749",
   "latitude": "36.30636478",
@@ -244,6 +260,7 @@
 {
   "school_code": "95110704",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "مرضیه",
   "longitude": "59.66346625",
   "latitude": "36.34677857",
@@ -259,6 +276,7 @@
 {
   "school_code": "80045556",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "ایراندخت1",
   "longitude": "59.67749511",
   "latitude": "36.32114577",
@@ -274,6 +292,7 @@
 {
   "school_code": "80045555",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "ایراندخت2",
   "longitude": "59.67749511",
   "latitude": "36.32114577",
@@ -289,6 +308,7 @@
 {
   "school_code": "96082978",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "بانواجودی",
   "longitude": "59.6238811",
   "latitude": "36.29857922",
@@ -304,6 +324,7 @@
 {
   "school_code": "96104314",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "هنرآفرینان",
   "longitude": "59.64461748",
   "latitude": "36.31935217",
@@ -319,6 +340,7 @@
 {
   "school_code": "80045818",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "جلال آبادی",
   "longitude": "59.6915415",
   "latitude": "36.3200653",
@@ -334,6 +356,7 @@
 {
   "school_code": "50147309",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "نصیرزاده1",
   "longitude": "59.61484986",
   "latitude": "36.30066669",
@@ -349,6 +372,7 @@
 {
   "school_code": "96124446",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "نصیرزاده2",
   "longitude": "59.61484986",
   "latitude": "36.30066669",
@@ -364,6 +388,7 @@
 {
   "school_code": "80010409",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "صدر زاده",
   "longitude": "59.61484986",
   "latitude": "36.30066669",
@@ -379,6 +404,7 @@
 {
   "school_code": "50122307",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "رحیم زاده1",
   "longitude": "59.66360123",
   "latitude": "36.29081031",
@@ -394,6 +420,7 @@
 {
   "school_code": "96104961",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "رحیم زاده2",
   "longitude": "59.66360123",
   "latitude": "36.29081031",
@@ -409,6 +436,7 @@
 {
   "school_code": "50160002",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "امام جواد1",
   "longitude": "59.66620946",
   "latitude": "36.3183475",
@@ -424,6 +452,7 @@
 {
   "school_code": "96124443",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "امام جواد2",
   "longitude": "59.66620946",
   "latitude": "36.3183475",
@@ -439,6 +468,7 @@
 {
   "school_code": "50158508",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "شهدای پارسا 1",
   "longitude": "59.65091621",
   "latitude": "36.33112362",
@@ -454,6 +484,7 @@
 {
   "school_code": "96124447",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "شهدای پارسا2",
   "longitude": "59.65091621",
   "latitude": "36.33112362",
@@ -469,6 +500,7 @@
 {
   "school_code": "50172203",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "افشین مرشدیان",
   "longitude": "59.68906924",
   "latitude": "36.32803998",
@@ -484,6 +516,7 @@
 {
   "school_code": "95110687",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "پیامبر اعظم",
   "longitude": "59.64157308",
   "latitude": "36.30797035",
@@ -499,6 +532,7 @@
 {
   "school_code": "96103715",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "کاوشگران",
   "longitude": "59.68319871",
   "latitude": "36.32000563",
@@ -513,7 +547,8 @@
 },
 {
   "school_code": "96082979",
-  "district": "1",
+  "district": "1",.
+  "districtN":"ناحیه1",
   "school_name": "طه",
   "longitude": "59.630556",
   "latitude": "36.315472",
@@ -529,6 +564,7 @@
 {
   "school_code": "96124442",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "طه(طاهری)2",
   "longitude": "59.630556",
   "latitude": "36.315472",
@@ -544,6 +580,7 @@
 {
   "school_code": "96104381",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "شهید خیامی 1",
   "longitude": "59.666412",
   "latitude": "36.304001",
@@ -559,6 +596,7 @@
 {
   "school_code": "96124448",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "شهید خیامی2",
   "longitude": "59.666412",
   "latitude": "36.304001",
@@ -574,6 +612,7 @@
 {
   "school_code": "95086731",
   "district": "1",
+  "districtN":"ناحیه1",
   "school_name": "صنعت آرمان",
   "longitude": "59.623051",
   "latitude": "36.3222095",
