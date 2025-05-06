@@ -4,6 +4,7 @@
   {
     "school_code": "96085100",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شاهد ایمان و هنر",
     "longitude": "59.639545",
     "latitude": "36.286029",
@@ -19,6 +20,7 @@
   {
     "school_code": "50516001",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهیدسیداحمدمحدث",
     "longitude": "59.650238",
     "latitude": "36.301350",
@@ -34,6 +36,7 @@
   {
     "school_code": "50539600",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "امام خمینی (ره )",
     "longitude": "59.656709",
     "latitude": "36.289149",
@@ -49,6 +52,7 @@
   {
     "school_code": "96085098",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "یادگار امام (ره )",
     "longitude": "59.656743",
     "latitude": "36.290030",
@@ -64,6 +68,7 @@
   {
     "school_code": "96085093",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شاهد راهیان ولایت",
     "longitude": "59.644821",
     "latitude": "36.283140",
@@ -79,6 +84,7 @@
   {
     "school_code": "50565708",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "المهدی (عج )",
     "longitude": "59.685432",
     "latitude": "36.269042",
@@ -94,6 +100,7 @@
   {
     "school_code": "80058245",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "رستگار مقدم",
     "longitude": "59.659496",
     "latitude": "36.276109",
@@ -109,6 +116,7 @@
   {
     "school_code": "96085094",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "عترت",
     "longitude": "59.636977",
     "latitude": "36.295347",
@@ -124,6 +132,7 @@
   {
     "school_code": "96085097",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "بصیرت",
     "longitude": "59.629864",
     "latitude": "36.293230",
@@ -139,6 +148,7 @@
   {
     "school_code": "50514408",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "جهان پهلوان تختی",
     "longitude": "59.628270",
     "latitude": "36.280112",
@@ -154,6 +164,7 @@
   {
     "school_code": "80058571",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "جهان پهلوان تختی",
     "longitude": "59.628270",
     "latitude": "36.280112",
@@ -169,6 +180,7 @@
   {
     "school_code": "50517403",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهیدحاج مهدی عراقی",
     "longitude": "59.659754",
     "latitude": "36.261218",
@@ -184,6 +196,7 @@
   {
     "school_code": "80048945",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهیدحاج مهدی عراقی",
     "longitude": "59.659754",
     "latitude": "36.261218",
@@ -199,6 +212,7 @@
   {
     "school_code": "50553001",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "محمودیه خیامی 5",
     "longitude": "59.628319",
     "latitude": "36.279720",
@@ -214,6 +228,7 @@
   {
     "school_code": "80048944",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "محمودیه خیامی 5",
     "longitude": "59.628319",
     "latitude": "36.279720",
@@ -229,6 +244,7 @@
   {
     "school_code": "50554701",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهید نواب اصفهانی",
     "longitude": "59.650444",
     "latitude": "36.300341",
@@ -245,6 +261,7 @@
   {
     "school_code": "50563905",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "ابتکار",
     "longitude": "59.668401",
     "latitude": "36.279637",
@@ -260,6 +277,7 @@
   {
     "school_code": "95139567",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهید مصطفی احمدی روشن",
     "longitude": "59.627651",
     "latitude": "36.280573",
@@ -275,6 +293,7 @@
   {
     "school_code": "96027516",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "جواد الائمه (ع)",
     "longitude": "59.709651",
     "latitude": "36.240367",
@@ -290,6 +309,7 @@
   {
     "school_code": "80058231",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "جواد الائمه (ع)",
     "longitude": "59.709651",
     "latitude": "36.240367",
@@ -305,6 +325,7 @@
   {
     "school_code": "96083318",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "امام علی (ع) - پسرانه",
     "longitude": "59.660627",
     "latitude": "36.274149",
@@ -320,6 +341,7 @@
   {
     "school_code": "80049561",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "امام علی (ع) - پسرانه",
     "longitude": "59.660627",
     "latitude": "36.274149",
@@ -335,6 +357,7 @@
   {
     "school_code": "50514704",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهید اول",
     "longitude": "59.664722",
     "latitude": "36.275370",
@@ -350,6 +373,7 @@
   {
     "school_code": "50517107",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهیدان بانپور 1",
     "longitude": "59.649428",
     "latitude": "36.292508",
@@ -365,6 +389,7 @@
   {
     "school_code": "80058572",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهید سلیمانی (محمودزاده سابق)",
     "longitude": "59.690830",
     "latitude": "36.261474",
@@ -381,6 +406,7 @@
   {
     "school_code": "80059907",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "شهید سلیمانی (محمودزاده سابق)",
     "longitude": "59.690830",
     "latitude": "36.261474",
@@ -396,6 +422,7 @@
   {
     "school_code": "50550205",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "حاج ابوالقاسم عرفانی",
     "longitude": "59.644800",
     "latitude": "36.285300",
@@ -411,6 +438,7 @@
   {
     "school_code": "50567701",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "ربابه طاهباز",
     "longitude": "59.707567",
     "latitude": "36.251073",
@@ -426,6 +454,7 @@
   {
     "school_code": "80058233",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "مصلی",
     "longitude": "59.626757",
     "latitude": "36.276397",
@@ -441,6 +470,7 @@
   {
     "school_code": "80058232",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "محمودزاده اسکویی 1",
     "longitude": "59.683715",
     "latitude": "36.262273",
@@ -456,6 +486,7 @@
   {
     "school_code": "50554900",
     "district": "5",
+    "districtN":"ناحیه5",
     "school_name": "رابعه",
     "longitude": "59.637198",
     "latitude": "36.299157",
