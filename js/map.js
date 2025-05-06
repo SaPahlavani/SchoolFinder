@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <b>${school.school_name}</b><br>
                 ${school.technical_or_vocational} - ${school.gender_specific} - ${school.public_or_private}<br>
                 ${school.districtN || ""}<br>
+                ${school.cources || ""}<br>
                 ${school.address || ""}
             `;
 
