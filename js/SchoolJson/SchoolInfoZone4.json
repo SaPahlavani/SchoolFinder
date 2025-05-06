@@ -4,6 +4,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "زنده یاد عذرا نورموسوی",
     "longitude": "59.548557",
     "latitude": "36.336839",
@@ -19,6 +20,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید مطهری",
     "longitude": "59.606108",
     "latitude": "36.31537",
@@ -34,6 +36,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید فکری",
     "longitude": "59.620881",
     "latitude": "36.325092",
@@ -49,6 +52,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "محمد مقدس",
     "longitude": "59.603977",
     "latitude": "36.323649",
@@ -64,6 +68,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "مریم مودی",
     "longitude": "59.549834",
     "latitude": "36.311858",
@@ -79,6 +84,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "عالمه",
     "longitude": "59.561759",
     "latitude": "36.345195",
@@ -94,6 +100,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "زنده یاد عذرا نورموسوی",
     "longitude": "59.548557",
     "latitude": "36.336839",
@@ -109,6 +116,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید مطهری",
     "longitude": "59.606108",
     "latitude": "36.31537",
@@ -124,6 +132,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید فکری",
     "longitude": "59.620881",
     "latitude": "36.325092",
@@ -139,6 +148,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "محمد مقدس",
     "longitude": "59.603977",
     "latitude": "36.323649",
@@ -154,6 +164,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "مریم مودی",
     "longitude": "59.549834",
     "latitude": "36.311858",
@@ -169,6 +180,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "عالمه",
     "longitude": "59.561759",
     "latitude": "36.345195",
@@ -187,6 +199,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید سعیدی",
     "longitude": "59.55359388550292",
     "latitude": "36.32880903064961",
@@ -203,6 +216,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "پویندگان",
     "longitude": "59.5519602530066",
     "latitude": "36.32547280902931",
@@ -218,6 +232,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "پیشتازان علم",
     "longitude": "59.55881326428153",
     "latitude": "36.32360972547142",
@@ -233,6 +248,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "جویا",
     "longitude": "59.581902",
     "latitude": "36.304465",
@@ -248,6 +264,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "رکاد",
     "longitude": "59.578694477825515",
     "latitude": "36.315976134548144",
@@ -263,6 +280,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "رکاد",
     "longitude": "59.57869447782",
     "latitude": "36.315976134548",
@@ -278,6 +296,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهدای شرکت برق",
     "longitude": "59.554152265673544",
     "latitude": "36.34171207682964",
@@ -293,6 +312,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهیدچراغچی",
     "longitude": "59.602088704948414",
     "latitude": "36.30006789318076",
@@ -309,6 +329,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "کارآمدان",
     "longitude": "59.57188434907135",
     "latitude": "36.307784930716934",
@@ -324,6 +345,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "ابوریحان بیرونی",
     "longitude": "59.55879031122915",
     "latitude": "36.32847855927789",
@@ -340,6 +362,7 @@
     {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "امام حسن عسکری(ع)",
     "longitude": "59.593350",
     "latitude": "36.333004",
@@ -356,6 +379,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "امام حسن عسکری (ع)",
     "longitude": "59.59335",
     "latitude": "36.333004",
@@ -373,6 +397,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "مهرآوران",
     "longitude": "59.56888295698812",
     "latitude": "36.34311666705148",
@@ -388,6 +413,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "خیام",
     "longitude": "59.57509179071884",
     "latitude": "36.30747616931512",
@@ -403,6 +429,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید قدیری",
     "longitude": "59.594545852730086",
     "latitude": "36.30565403645012",
@@ -418,6 +445,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "دکتر عالیه ترابی زاده",
     "longitude": "59.58550740709823",
     "latitude": "36.32991366185655",
@@ -434,6 +462,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "کارآمدان",
     "longitude": "59.57188434907135",
     "latitude": "36.307784930716934",
@@ -449,6 +478,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "ابوریحان بیرونی",
     "longitude": "59.55879031122915",
     "latitude": "36.32847855927789",
@@ -464,6 +494,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "مهرآوران",
     "longitude": "59.56888295698812",
     "latitude": "36.34311666705148",
@@ -479,6 +510,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "مهرآوران",
     "longitude": "59.56888295698812",
     "latitude": "36.34311666705148",
@@ -494,6 +526,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "خیام",
     "longitude": "59.57509179071884",
     "latitude": "36.30747616931512",
@@ -509,6 +542,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهید قدیری",
     "longitude": "59.594545852730086",
     "latitude": "36.30565403645012",
@@ -524,6 +558,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "دکتر عالیه ترابی زاده",
     "longitude": "59.58550740709823",
     "latitude": "36.32991366185655",
@@ -539,6 +574,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهدای شرکت برق",
     "longitude": "59.57218219276827",
     "latitude": "36.32113151815487",
@@ -554,6 +590,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "عباس صیرفی",
     "longitude": "59.58499242297341",
     "latitude": "36.32965436077674",
@@ -569,6 +606,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "فاطمه الزهرا",
     "longitude": "59.58633352748273",
     "latitude": "36.31891853834916",
@@ -584,6 +622,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "بهار",
     "longitude": "59.551720141889234",
     "latitude": "36.33235514586879",
@@ -599,6 +638,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "محمد مقدس",
     "longitude": "59.60381080144425",
     "latitude": "36.323729095590544",
@@ -614,6 +654,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "نگرش هنر",
     "longitude": "59.574279",
     "latitude": "36.306923",
@@ -629,6 +670,7 @@
   {
     "school_code": "4",
     "district": "4",
+    "districtN":"ناحیه4",
     "school_name": "شهدای فلسطینی",
     "longitude": "59.61005498",
     "latitude": "36.31274174488868",
