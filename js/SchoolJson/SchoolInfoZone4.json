@@ -459,22 +459,7 @@
     "address": "حرعاملی ۶۵ روبروی فتح المبین"
   },
 
-  {
-    "school_code": "4",
-    "district": "4",
-    "districtN":"ناحیه4",
-    "school_name": "کارآمدان",
-    "longitude": "59.57188434907135",
-    "latitude": "36.307784930716934",
-    "cources": "امور اداری,تصویرسازی و جلوه های ویژه رایانه ای,طلا و جواهرسازی",
-    "technical_or_vocational": "کاردانش",
-    "technical_or_vocational_code": "T0",
-    "gender_specific": "پسر",
-    "gender_specific_code": "G0",
-    "public_or_private": "غیردولتی",
-    "public_or_private_code": "P0",
-    "address": "میدان راهنمایی- بلوار شهید دستغیب- پلاک ۱۲"
-  },
+
   {
     "school_code": "4",
     "district": "4",
