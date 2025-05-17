@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const icon = L.icon({
                     iconUrl: `image/${districtId}-${school.gender_specific_code}.svg`,
                     iconSize: [70, 70]
-});
+                                });
             const popup = `
                 <div class="popup">
                 هنرستان <b style="color: #33358a;">${school.school_name}</b> - ${school.districtN || ""}<br>
