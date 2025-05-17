@@ -4,8 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
         attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    const girlIcon = L.icon({ iconUrl: "image/girl.png", iconSize: [32, 32] });
-    const boyIcon = L.icon({ iconUrl: "image/boy.png", iconSize: [32, 32] });
 
     let allSchools = [];
     let markers = [];
@@ -29,13 +27,19 @@ document.addEventListener("DOMContentLoaded", function () {
             const lng = parseFloat(school.longitude);
             if (isNaN(lat) || isNaN(lng)) return;
 
-            const icon = school.gender_specific_code === "G1" ? girlIcon : boyIcon;
+            const districtId = school.district; 
+            const icon = L.icon({
+                    iconUrl: `image/${districtId}-${school.gender_specific_code}.svg`,
+                    iconSize: [70, 70]
+});
             const popup = `
-                <b>${school.school_name}</b><br>
-                ${school.technical_or_vocational} - ${school.gender_specific} - ${school.public_or_private}<br>
-                ${school.districtN || ""}<br>
-                ${school.cources || ""}<br>
-                ${school.address || ""}
+                <div class="popup">
+                هنرستان <b style="color: #33358a;">${school.school_name}</b> - ${school.districtN || ""}<br>
+                ${school.technical_or_vocational}، ${school.gender_specific}، ${school.public_or_private}<br>
+                <b>رشته‌های فعال: </b>${school.cources || ""}<br>
+                <b>نشانی: </b>${school.address || ""}<br>
+                <b>تلفن: </b>${school.tel || ""}
+                </div>  
             `;
 
             const marker = L.marker([lat, lng], { icon }).addTo(map).bindPopup(popup);
