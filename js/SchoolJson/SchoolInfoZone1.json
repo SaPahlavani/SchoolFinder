@@ -3,7 +3,7 @@
   [
   {
     "school_code": 96043927,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "فاطمه الزهرا(س)",
     "longitude": 59.6679033258069,
@@ -26,7 +26,7 @@
   },
   {
     "school_code": 50172605,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "حوا",
     "longitude": 59.6285302,
@@ -50,7 +50,7 @@
   },
   {
     "school_code": 96085457,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "بدیع",
     "longitude": 59.6588503883539,
@@ -73,7 +73,7 @@
   },
   {
     "school_code": 96083322,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "الزهرا(س)",
     "longitude": 59.6725012863529,
@@ -93,7 +93,7 @@
   },
   {
     "school_code": 50142500,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "سینا",
     "longitude": 59.6162,
@@ -117,7 +117,7 @@
   },
   {
     "school_code": 50118301,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهید مهدیزاده",
     "longitude": 59.6178538728231,
@@ -140,7 +140,7 @@
   },
   {
     "school_code": 96027517,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهید جواد دوراندیش",
     "longitude": 59.6200601756572,
@@ -161,7 +161,7 @@
   },
   {
     "school_code": 96085456,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "آیت الله خامنه ای",
     "longitude": 59.6339929,
@@ -182,7 +182,7 @@
   },
   {
     "school_code": 80059530,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "حاج کریم رحیم زاده",
     "longitude": 59.6636012330053,
@@ -201,7 +201,7 @@
   },
   {
     "school_code": 80059529,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهدای پارسا",
     "longitude": 59.6509162071574,
@@ -221,7 +221,7 @@
   },
   {
     "school_code": 80060591,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "امام جواد(ع)",
     "longitude": 59.6662094636022,
@@ -241,7 +241,7 @@
   },
   {
     "school_code": 50124903,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "آل طه 1",
     "longitude": 59.659189581871,
@@ -265,7 +265,7 @@
   },
   {
     "school_code": 80016368,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "آل طه 2",
     "longitude": 59.659189581871,
@@ -286,7 +286,7 @@
   },
   {
     "school_code": 50163505,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "محمودیه خیامی1",
     "longitude": 59.66476991,
@@ -310,7 +310,7 @@
   },
   {
     "school_code": 50160108,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "حافظ",
     "longitude": 59.6316600590944,
@@ -334,7 +334,7 @@
   },
   {
     "school_code": 50147203,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "عارفه",
     "longitude": 59.6383974915167,
@@ -358,7 +358,7 @@
   },
   {
     "school_code": 95110704,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "مرضیه",
     "longitude": 59.6634662459378,
@@ -380,7 +380,7 @@
   },
   {
     "school_code": 80045556,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "ایراندخت1",
     "longitude": 59.6774951076751,
@@ -402,7 +402,7 @@
   },
   {
     "school_code": 80045555,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "ایراندخت2",
     "longitude": 59.6774951076751,
@@ -424,7 +424,7 @@
   },
   {
     "school_code": 96082978,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "بانو اجودی",
     "longitude": 59.6238810962927,
@@ -446,7 +446,7 @@
   },
   {
     "school_code": 96104314,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "هنرآفرینان",
     "longitude": 59.6446174755692,
@@ -469,7 +469,7 @@
   },
   {
     "school_code": 80045818,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهید جلال آبادی",
     "longitude": 59.6915415,
@@ -490,7 +490,7 @@
   },
   {
     "school_code": 50147309,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "جلیل نصیرزاده1",
     "longitude": 59.6148498554061,
@@ -513,7 +513,7 @@
   },
   {
     "school_code": 96124446,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "جلیل نصیرزاده2",
     "longitude": 59.6148498554061,
@@ -535,7 +535,7 @@
   },
   {
     "school_code": 80010409,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهید صدرزاده",
     "longitude": 59.6148498554061,
@@ -555,7 +555,7 @@
   },
   {
     "school_code": 50122307,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "حاج کریم رحیم زاده1",
     "longitude": 59.6636012330053,
@@ -578,7 +578,7 @@
   },
   {
     "school_code": 96104961,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "حاج کریم رحیم زاده2",
     "longitude": 59.6636012330053,
@@ -602,7 +602,7 @@
   },
   {
     "school_code": 50160002,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "امام جواد(ع)1",
     "longitude": 59.6662094636022,
@@ -623,7 +623,7 @@
   },
   {
     "school_code": 96124443,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "امام جواد(ع)2",
     "longitude": 59.6662094636022,
@@ -643,7 +643,7 @@
   },
   {
     "school_code": 50158508,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهدای پارسا 1",
     "longitude": 59.6509162071574,
@@ -664,7 +664,7 @@
   },
   {
     "school_code": 96124447,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهدای پارسا2",
     "longitude": 59.6509162071574,
@@ -685,7 +685,7 @@
   },
   {
     "school_code": 50172203,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "افشین مرشدیان",
     "longitude": 59.6890692368536,
@@ -710,7 +710,7 @@
   },
   {
     "school_code": 95110687,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "پیامبر اعظم(ص)",
     "longitude": 59.6415730760356,
@@ -733,7 +733,7 @@
   },
   {
     "school_code": 96103715,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "کاوشگران",
     "longitude": 59.6831987053156,
@@ -754,7 +754,7 @@
   },
   {
     "school_code": 96082979,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "طه",
     "longitude": 59.630556,
@@ -776,7 +776,7 @@
   },
   {
     "school_code": 96124442,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "طه(طاهری)2",
     "longitude": 59.630556,
@@ -796,7 +796,7 @@
   },
   {
     "school_code": 96104381,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهید دکتر محمدعلی خیامی 1",
     "longitude": 59.666412,
@@ -819,7 +819,7 @@
   },
   {
     "school_code": 96124448,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "شهید دکتر محمدعلی خیامی 2",
     "longitude": 59.666412,
@@ -842,7 +842,7 @@
   },
   {
     "school_code": 95086731,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "صنعت آرمان",
     "longitude": 59.623051,
@@ -863,7 +863,7 @@
   },
   {
     "school_code": 80063951,
-    "district": 1,
+    "district": "1",
     "districtN": "ناحیه1",
     "school_name": "صنعت آرمان",
     "longitude": 59.623051,
