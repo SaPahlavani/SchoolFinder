@@ -58,14 +58,14 @@ display: none !important;
   direction: rtl;
   text-align: right;
   font-family: yekan;
-  font-size: 14px;
+  font-size: 10px;
   line-height: 1.8;
   color: #585858;
 }
 
 .leaflet-popup-content b {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .leaflet-popup-content-wrapper {
