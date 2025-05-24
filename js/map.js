@@ -155,21 +155,34 @@ document.addEventListener("DOMContentLoaded", function () {
             );
         
             //   مرحله ۳: پر کردن کمبوباکس رشته‌ها
-            const courseSelect = document.getElementById("courseSelect");
-            courseSelect.innerHTML = `<option value="all" selected>تمامی رشته‌ها</option>`;
-        
-            filteredCourses.sort((a, b) => a.name.localeCompare(b.name, "fa"));
-            filteredCourses.forEach(course => {
-                const option = document.createElement("option");
-                option.value = course.code;
-                option.textContent = course.name;
-                courseSelect.appendChild(option);
-            });
-        
-            courseSelect.addEventListener("change", function () {
-                activeFilters.selectedCourse = this.value === "all" ? null : this.value;
-                applyFilters();
-            });
+            
+const courseSelect = document.getElementById("courseSelect");
+courseSelect.innerHTML = `<option value="" selected>انتخاب رشته</option>`;
+
+filteredCourses.sort((a, b) => a.name.localeCompare(b.name, "fa"));
+filteredCourses.forEach(course => {
+    const option = document.createElement("option");
+    option.value = course.code;
+    option.textContent = course.name;
+    courseSelect.appendChild(option);
+});
+
+// سپس فعال کردن Select2 روی select
+$(document).ready(function() {
+    $('#courseSelect').select2({
+        placeholder: "انتخاب رشته",
+        allowClear: true,
+        width: '40%',
+        dir: "rtl"
+    });
+});
+
+// و اضافه کردن event listener برای فیلتر
+$('#courseSelect').on('change', function () {
+    const value = $(this).val();
+    activeFilters.selectedCourse = value ? value : null;
+    applyFilters();
+});
         
             addMarkers(allSchools);
         })
