@@ -162,6 +162,7 @@ document.addEventListener("DOMContentLoaded", function () {
             zones.forEach(zone => {
                 const polygon = L.polygon(zone.coordinates, {
                     color: zone.color,
+                    weight: 5,
                     fillColor: zone.color,
                     fillOpacity: 0.1
                 }).addTo(map).bindPopup(`<b>${zone.name}</b>`);
